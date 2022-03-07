@@ -1,6 +1,4 @@
 ## COVID-CS dataset and JCS model
-Official repository of the paper: JCS: An explainable COVID-19 diagnosis system by joint classification and segmentation,
-IEEE Transactions on Image Processing (TIP) 2021.
 
 This repository contains:
 
